@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7323
     wikipedia: http://www.mhs.mb.ca/docs/people/bryce_g.shtml
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44312#The-Remarkable-History-of-the-Hudson-s-Bay-CompanyCanada-and-of-the-North-West-XY-and-Astor-F_
 gutenberg_issued: '2013-11-30'
 gutenberg_type: Text
 identifiers:
