@@ -1,0 +1,33 @@
+_repo: The-Remarkable-History-of-the-Hudson-s-Bay-CompanyCanada-and-of-the-North-West-XY-and-Astor-F__44312
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44312-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bryce, George
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '7323'
+    url: http://www.gutenberg.org/2009/agents/7323
+    wikipedia: http://www.mhs.mb.ca/docs/people/bryce_g.shtml
+description: ''
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fur trade -- Northwest, Canadian'
+- !lcsh 'North West Company'
+- !lcsh 'XY Company'
+- !lcsh 'Hudson''s Bay Company'
+- !lcc 'F1001'
+- !lcsh 'Northwest, Canadian -- History'
+title: "The Remarkable History of the Hudson's Bay Company\r\nIncluding that of the\
+  \ French Traders of North-Western Canada and of the North-West, XY, and Astor Fur\
+  \ Companies"
+url: http://www.gutenberg.org/ebooks/44312
